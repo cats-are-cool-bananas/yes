@@ -3,7 +3,14 @@
     "description": "",
     "dependencies": {
         "device": "*",
-        "yes": "github:cats-are-cool-bananas/yes#7386d4cd8bc1b600a5508d10508878d241c19826"
+        "yes": "github:cats-are-cool-bananas/yes#7386d4cd8bc1b600a5508d10508878d241c19826",
+        "animation": "*",
+        "color-coded-tilemap": "*",
+        "pxt-button-combos": "github:jwunderl/pxt-button-combos#v0.0.24",
+        "pxt-status-bar": "github:jwunderl/pxt-status-bar#v0.4.2",
+        "settings-blocks": "github:microsoft/pxt-settings-blocks#v1.0.0",
+        "arcade-text": "github:microsoft/arcade-text#v1.3.0",
+        "arcade-character-animations": "github:microsoft/arcade-character-animations#v0.0.2"
     },
     "files": [
         "main.blocks",
