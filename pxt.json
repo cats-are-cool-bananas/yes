@@ -10,7 +10,10 @@
         "pxt-status-bar": "github:jwunderl/pxt-status-bar#v0.4.2",
         "settings-blocks": "github:microsoft/pxt-settings-blocks#v1.0.0",
         "arcade-text": "github:microsoft/arcade-text#v1.3.0",
-        "arcade-character-animations": "github:microsoft/arcade-character-animations#v0.0.2"
+        "arcade-character-animations": "github:microsoft/arcade-character-animations#v0.0.2",
+        "Timers": "github:microsoft/arcade-timers#v1.1.0",
+        "arcade-background-scroll": "github:microsoft/arcade-background-scroll#v0.1.2",
+        "arcade-tile-util": "github:microsoft/arcade-tile-util#v1.2.0"
     },
     "files": [
         "main.blocks",
